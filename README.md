@@ -47,4 +47,3 @@ I want it to be modular, so I can clone the same flow and adapt it to different 
     - [OpenAI API Docs](https://platform.openai.com/docs/api-reference)
     - [Nodemailer](https://nodemailer.com/about/)
     - [Cómo crear un widget embebible](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
-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
